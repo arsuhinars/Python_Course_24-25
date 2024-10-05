@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code"
 }
