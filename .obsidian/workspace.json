@@ -8,47 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10ce9e9a1101dde8",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "5e9bd2dfc09600f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Занятие 1/1. Материалы/6. pytest.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "201903783664d09b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Занятие 1/1. Материалы/7. Контекстные менеджеры и работа с файлами.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "83ffb408032d262c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Занятие 1/1. Материалы/8. Асинхронное программирование.md",
+                "file": "Занятие 1/1. Материалы/5. Git.md",
                 "mode": "source",
                 "source": true
               }
@@ -120,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Занятие 1/1. Материалы/5. Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Занятие 1/1. Материалы/5. Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Занятие 1/1. Материалы/5. Git.md"
+              }
             }
           },
           {
@@ -185,21 +154,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "10ce9e9a1101dde8",
+  "active": "5e9bd2dfc09600f4",
   "lastOpenFiles": [
-    "Занятие 1/1. Материалы/4. Итераторы и генераторы списков.md",
+    "Занятие 1/1. Материалы/8. Асинхронное программирование.md",
+    "Занятие 1/1. Материалы/7. Контекстные менеджеры и работа с файлами.md",
     "Занятие 1/1. Материалы/5. Git.md",
+    "Занятие 1/1. Материалы/6. pytest.md",
+    "Занятие 1/1. Материалы/4. Итераторы и генераторы списков.md",
     "Занятие 1/assets/git_commit.png",
     "Занятие 1/assets/git_add.png.part",
     "Занятие 1/assets/git_add.png",
     "Занятие 1/assets/git_status.png",
-    "Занятие 1/1. Материалы/6. pytest.md",
     "Занятие 1/1. Материалы/3. Строки.md",
     "Занятие 1/1. Материалы/1. Установка IDE и основы основ.md",
     "Занятие 1/1. Материалы/2. Базовые структуры данных.md",
     "Занятие 1/assets/git_init.png",
-    "Занятие 1/1. Материалы/7. Контекстные менеджеры и работа с файлами.md",
-    "Занятие 1/1. Материалы/8. Асинхронное программирование.md",
     "Занятие 1/2. Домашнее задание/Шахматы 2.0.md",
     "Занятие 1/2. Домашнее задание/5. Миникрафт.md",
     "Занятие 1/2. Домашнее задание/4. Конвейер.md",
