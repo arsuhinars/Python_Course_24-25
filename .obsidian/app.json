@@ -2,5 +2,7 @@
   "vimMode": true,
   "livePreview": false,
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useTab": false,
+  "showLineNumber": false
 }
